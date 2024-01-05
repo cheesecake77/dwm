@@ -57,18 +57,18 @@ static const Layout layouts[] = {
 	{ "[]=",      tile },    /* first entry is default */
 	{ "><>",      NULL },    /* no layout function means floating behavior */
 	{ "[M]",      monocle },
-	{ "[@]",      spiral },
-	{ "[\\]",     dwindle },
-	{ "H[]",      deck },
-	{ "TTT",      bstack },
-	{ "===",      bstackhoriz },
-	{ "HHH",      grid },
-	{ "###",      nrowgrid },
-	{ "---",      horizgrid },
-	{ ":::",      gaplessgrid },
-	{ "|M|",      centeredmaster },
-	{ ">M>",      centeredfloatingmaster },
-	{ NULL,       NULL },
+	//{ "[@]",      spiral },
+	//{ "[\\]",     dwindle },
+	//{ "H[]",      deck },
+	//{ "TTT",      bstack },
+	//{ "===",      bstackhoriz },
+	//{ "HHH",      grid },
+	//{ "###",      nrowgrid },
+	//{ "---",      horizgrid },
+	//{ ":::",      gaplessgrid },
+	//{ "|M|",      centeredmaster },
+	//{ ">M>",      centeredfloatingmaster },
+	//{ NULL,       NULL },
 };
 
 /* key definitions */
